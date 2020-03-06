@@ -1,0 +1,14 @@
+C:\Users\远野由希\source\repos\Radar\Radar\bin\Debug\Radar.exe.config
+C:\Users\远野由希\source\repos\Radar\Radar\bin\Debug\Radar.exe
+C:\Users\远野由希\source\repos\Radar\Radar\bin\Debug\Radar.pdb
+C:\Users\远野由希\source\repos\Radar\Radar\obj\Debug\Radar.csprojAssemblyReference.cache
+C:\Users\远野由希\source\repos\Radar\Radar\obj\Debug\Radar.csproj.CoreCompileInputs.cache
+C:\Users\远野由希\source\repos\Radar\Radar\obj\Debug\Radar.exe
+C:\Users\远野由希\source\repos\Radar\Radar\obj\Debug\Radar.pdb
+C:\Users\远野由希\Downloads\雷达资料\Radar\Radar\bin\Debug\Radar.exe.config
+C:\Users\远野由希\Downloads\雷达资料\Radar\Radar\bin\Debug\Radar.exe
+C:\Users\远野由希\Downloads\雷达资料\Radar\Radar\bin\Debug\Radar.pdb
+C:\Users\远野由希\Downloads\雷达资料\Radar\Radar\obj\Debug\Radar.csprojAssemblyReference.cache
+C:\Users\远野由希\Downloads\雷达资料\Radar\Radar\obj\Debug\Radar.csproj.CoreCompileInputs.cache
+C:\Users\远野由希\Downloads\雷达资料\Radar\Radar\obj\Debug\Radar.exe
+C:\Users\远野由希\Downloads\雷达资料\Radar\Radar\obj\Debug\Radar.pdb
